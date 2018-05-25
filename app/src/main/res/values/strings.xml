@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Comunidad de Negocios</string>
+    <string name="title_activity_buscar_persona">BuscarPersona</string>
+
+    <string name="str_en">Inglés</string>
+    <string name="str_es">Español</string>
+    <string name="str_mam">Mam</string>
+
+    //Menu Principal
+    <string name="alerta">Negocios</string>
+    <string name="maternidad">Comida</string>
+    <string name="accidentes">Salud</string>
+    <string name="incendios">Automóviles</string>
+    <string name="primeros_auxilios">Viajes</string>
+
+    //Crear registro
+    <string name="nombre_usuario">Nombre de Usuario</string>
+    <string name="numero_telefono">Número Teléfonico</string>
+    <string name="guardar">Guardar</string>
+
+    //Boton superior derecho
+    <string name="button_send">Send</string>
+    <string name="pagina_web">Pagina Web</string>
+    <string name="historia">Historia</string>
+    <string name="quienes_somos">¿Quienes Somos?</string>
+    <string name="desarrolladores">Desarrolladores</string>
+    <string name="registro_de_alertas">Registros Enviados</string>
+
+    <string name="salir">Salir</string>
+
+    //menu emergente
+    <string name="desea_enviar_alerta">¿Desea Enviar Registro?</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="cancelar">CANCELAR</string>
+
+
+    //Desarrolladores
+
+    <string name="titulo1">Equipo de trabajo</string>
+    <string name="l1">Aplicacion mobil creada para que las personas puedan</string>
+    <string name="l2">Registrar la ubicación y servicios de un negocio</string>
+
+</resources>
